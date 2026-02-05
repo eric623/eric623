@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is AKAKPO Koffi Moïse
 ==================================================================
 
-Engineer in Data Science, Artificial Intelligence, and Lean Six Sigma
+Engineer in Data Science and Artificial Intelligence
 ----------------------------------------------------------------------
 
 🎯 My goal: to develop innovative, performance-driven solutions by leveraging the complementarity between industrial engineering, data science, AI, and quality management methodologies.
@@ -10,11 +10,7 @@ Engineer in Data Science, Artificial Intelligence, and Lean Six Sigma
 * 🌍  I'm based in Maroc  
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/eric623)  
 * ✉️  You can contact me at [koffimoiseakakpo@gmail.com](mailto:koffimoiseakakpo@gmail.com)  
-* 🤝  I'm open to collaborating on Data Science, AI and Lean Six Sigma Projects  
-
-<a href="https://www.github.com/eric623" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/eric623?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" />
-</a>
+* 🤝  I'm open to collaborating on Data Science and AI Projects  
 
 ---
 
@@ -50,13 +46,6 @@ Engineer in Data Science, Artificial Intelligence, and Lean Six Sigma
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.youtube.com/@moiseakakpo2693" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
     </picture>
   </a>
 </p>
