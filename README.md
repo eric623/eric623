@@ -22,7 +22,7 @@ Passionate about designing intelligent systems that bridge AI research and real-
 
 # About Me
 
-Industrial Engineering specializing in **Artificial Intelligence & Data Science**.
+Industrial Engineering specializing in **Artificial Intelligence & Data Science** at **ENSAM** Meknès (Morocco)
 
 My interests span **Machine Learning**, **Deep Learning**, **Computer Vision**, **Graph Machine Learning**, **Large Language Models**, **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and **Model Context Protocol (MCP)**. I enjoy designing intelligent systems with real-world applications.
 
